@@ -37,7 +37,7 @@
       h2{
 
       	text-align: center;
-      	font-size: 40px;
+      	font-size: 60px;
       	background: blue;
       	color: white;
         box-shadow: 0 18px 24px 0 black;
@@ -46,6 +46,12 @@
      
       }
 
+	 body{
+          
+           background: mistyrose;
+
+            }
+	
 		</style>
 
 
