@@ -1,5 +1,5 @@
 # PRADIPTA_ACTIVE
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8">
@@ -54,7 +54,7 @@
 <body>
 			<h2>Devolop by Pradipta Ghosh</h2>
         <p>This is a simple code example to show you how to find when a user goes offline and when the user comes back online to show some messages to the user when this happens.</p>
-        <div id="status"></div>
+        <div style="color: black;" id="status"></div>
 
 <script>
 	
